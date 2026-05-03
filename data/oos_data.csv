@@ -1,0 +1,501 @@
+,customer_id,country,age,gender,membership_tier,registration_date,total_orders,total_spend_usd,avg_order_value_usd,days_since_last_purchase,preferred_category,preferred_device,preferred_payment_method,acquisition_channel,reviews_given,avg_review_score,returns_made,wishlist_items,newsletter_subscribed,churned
+2215,C02216,Netherlands,29,Female,Free,2023-12-12,11,2795.35,296.99,163,Books,Mobile,Credit Card,Email Campaign,1,4.0,1,2,0,0
+2582,C02583,United States,20,Female,Free,2023-05-24,7,384.49,62.89,31,Health & Wellness,Mobile,Credit Card,Referral,1,3.2,0,4,1,0
+1662,C01663,France,20,Male,Free,2025-04-11,1,196.68,179.86,4,Sports & Outdoors,Mobile,Credit Card,Email Campaign,0,3.3,0,4,0,1
+3027,C03028,United States,38,Male,Free,2024-06-04,28,1764.8,65.79,90,Electronics,Mobile,PayPal,Organic Search,1,4.7,1,0,0,0
+4343,C04344,India,44,Male,Free,2025-11-19,4,396.29,86.3,3,Automotive,Mobile,PayPal,Email Campaign,0,4.9,0,4,1,0
+2680,C02681,India,18,Other,Free,2026-01-04,1,170.23,151.84,41,Toys & Games,Tablet,UPI / Digital Wallet,Organic Search,0,3.9,0,9,1,1
+1765,C01766,United Kingdom,43,Male,Free,2024-11-13,8,206.1,24.93,53,Jewelry & Accessories,Desktop,PayPal,Paid Ad,1,4.8,0,3,0,0
+1123,C01124,United States,41,Female,Free,2025-04-11,12,1027.51,75.07,71,Clothing & Apparel,Mobile,Debit Card,Organic Search,2,4.6,0,8,1,0
+4054,C04055,Canada,40,Female,Silver,2025-12-19,5,1075.52,202.63,69,Travel & Luggage,Mobile,Credit Card,Organic Search,1,4.0,0,1,1,0
+3761,C03762,Australia,47,Male,Free,2025-12-08,6,1668.85,242.13,17,Home & Kitchen,Desktop,Bank Transfer,Direct,1,3.6,0,2,1,0
+1535,C01536,Australia,25,Male,Gold,2024-05-06,1,157.76,148.63,164,Clothing & Apparel,Mobile,Buy Now Pay Later,Social Media,0,4.1,0,2,1,0
+2944,C02945,Australia,32,Female,Silver,2026-03-23,6,314.81,56.4,27,Office Supplies,Mobile,Credit Card,Social Media,2,4.6,0,13,0,0
+2987,C02988,United States,42,Other,Platinum,2023-11-10,29,7140.05,281.72,115,Books,Mobile,PayPal,Organic Search,8,3.5,1,0,0,0
+4291,C04292,France,55,Female,Free,2026-02-01,40,1694.51,43.51,139,Electronics,Mobile,Credit Card,Organic Search,13,4.1,1,4,1,0
+4342,C04343,Sweden,29,Female,Free,2022-03-10,3,679.51,217.72,7,Toys & Games,Mobile,Debit Card,Referral,0,3.9,0,10,1,0
+4424,C04425,Germany,24,Male,Platinum,2025-06-06,2,323.04,176.59,125,Sports & Outdoors,Desktop,UPI / Digital Wallet,Direct,0,4.9,0,4,0,1
+7941,C07942,United States,37,Male,Free,2024-06-13,12,599.27,48.05,59,Jewelry & Accessories,Mobile,Credit Card,Social Media,3,3.4,0,6,1,0
+4997,C04998,United States,26,Male,Silver,2025-05-09,50,2256.59,40.27,71,Electronics,Tablet,UPI / Digital Wallet,Email Campaign,11,4.1,3,4,0,0
+2748,C02749,France,45,Female,Free,2026-01-02,10,1120.14,108.55,8,Electronics,Desktop,UPI / Digital Wallet,Email Campaign,0,4.2,0,0,0,0
+2302,C02303,United States,52,Female,Free,2019-04-18,6,179.59,29.5,99,Electronics,Mobile,Debit Card,Organic Search,0,4.6,0,13,1,0
+3932,C03933,United States,30,Female,Free,2025-09-23,62,1576.38,28.28,73,Home & Kitchen,Mobile,Buy Now Pay Later,Paid Ad,7,4.7,7,0,1,0
+5956,C05957,United States,47,Female,Free,2024-10-15,18,1423.33,85.06,81,Electronics,Desktop,PayPal,Direct,2,4.5,2,10,0,0
+6131,C06132,India,47,Female,Free,2024-05-03,21,1272.24,57.81,74,Electronics,Desktop,Debit Card,Social Media,5,4.6,0,1,1,0
+7596,C07597,France,67,Male,Free,2025-04-16,1,78.5,78.15,58,Electronics,Mobile,UPI / Digital Wallet,Paid Ad,0,4.0,0,0,1,0
+794,C00795,Brazil,45,Male,Silver,2025-02-25,51,5704.11,127.51,37,Clothing & Apparel,Desktop,Debit Card,Social Media,14,4.6,3,5,1,0
+3163,C03164,France,25,Female,Free,2026-01-26,19,645.92,30.59,19,Electronics,Mobile,PayPal,Organic Search,6,4.4,0,0,0,0
+7940,C07941,Mexico,30,Female,Free,2025-09-19,3,419.49,159.92,4,Clothing & Apparel,Desktop,Debit Card,Social Media,1,3.3,0,4,1,0
+3181,C03182,United States,37,Female,Free,2022-08-06,1,85.91,85.49,103,Clothing & Apparel,Mobile,UPI / Digital Wallet,Referral,0,3.9,0,1,0,1
+763,C00764,United Kingdom,23,Male,Free,2025-09-28,4,304.52,72.68,85,Sports & Outdoors,Tablet,UPI / Digital Wallet,Paid Ad,1,4.8,0,9,1,0
+3078,C03079,United States,32,Female,Silver,2024-10-30,6,336.93,53.42,18,Sports & Outdoors,Mobile,Buy Now Pay Later,Email Campaign,1,3.2,0,9,0,0
+811,C00812,United Kingdom,70,Female,Gold,2025-12-14,31,3572.47,112.66,82,Electronics,Mobile,Debit Card,Email Campaign,6,3.4,2,7,0,0
+7259,C07260,United Kingdom,40,Female,Gold,2025-02-01,3,394.97,146.25,51,Sports & Outdoors,Tablet,Debit Card,Social Media,0,3.8,0,2,1,0
+6931,C06932,United States,29,Female,Platinum,2022-05-19,18,1124.86,63.77,266,Clothing & Apparel,Tablet,UPI / Digital Wallet,Organic Search,6,3.6,2,14,1,1
+1618,C01619,United States,45,Female,Platinum,2025-10-29,43,5410.98,140.82,120,Electronics,Mobile,Credit Card,Organic Search,9,3.8,6,9,0,0
+6826,C06827,United States,44,Female,Free,2023-10-15,14,558.99,43.61,102,Electronics,Mobile,Credit Card,Referral,1,2.1,1,4,0,0
+1042,C01043,United States,18,Male,Free,2021-06-05,25,880.42,38.84,103,Clothing & Apparel,Mobile,PayPal,Organic Search,7,4.6,3,0,1,0
+5318,C05319,United States,37,Male,Free,2026-01-18,19,5237.17,270.83,63,Home & Kitchen,Desktop,Credit Card,Social Media,1,4.5,0,17,1,0
+4794,C04795,India,41,Female,Gold,2024-12-06,12,882.78,67.03,184,Electronics,Mobile,Debit Card,Organic Search,2,4.3,0,3,1,0
+487,C00488,United Kingdom,45,Male,Free,2025-06-07,14,2762.38,200.3,23,Clothing & Apparel,Tablet,UPI / Digital Wallet,Organic Search,1,4.4,0,4,1,0
+1017,C01018,Italy,47,Female,Gold,2024-06-06,1,89.66,79.37,237,Jewelry & Accessories,Desktop,PayPal,Email Campaign,0,4.6,0,3,1,0
+2815,C02816,Mexico,43,Male,Silver,2026-03-08,9,1345.46,167.61,132,Health & Wellness,Mobile,Credit Card,Social Media,0,3.7,0,13,0,0
+2716,C02717,United States,45,Female,Free,2025-04-03,47,2774.95,54.29,42,Automotive,Desktop,Debit Card,Paid Ad,3,4.7,4,4,1,0
+5363,C05364,Japan,28,Male,Silver,2026-01-09,5,301.7,58.1,9,Clothing & Apparel,Mobile,UPI / Digital Wallet,Email Campaign,1,4.2,0,3,0,0
+2929,C02930,Singapore,30,Female,Gold,2025-11-16,32,7477.92,254.75,1,Home & Kitchen,Tablet,UPI / Digital Wallet,Social Media,6,4.4,3,6,1,0
+3362,C03363,Brazil,36,Male,Silver,2025-12-22,27,827.16,31.31,110,Books,Mobile,Debit Card,Paid Ad,8,4.7,1,4,0,0
+5165,C05166,Mexico,42,Female,Free,2025-12-29,45,2633.89,57.37,41,Clothing & Apparel,Mobile,Credit Card,Organic Search,5,3.9,0,3,1,0
+1075,C01076,UAE,41,Male,Free,2026-01-21,8,596.76,65.14,11,Electronics,Mobile,Debit Card,Organic Search,0,3.2,0,1,1,0
+6398,C06399,United States,51,Female,Gold,2026-02-09,24,1890.38,87.36,14,Clothing & Apparel,Desktop,Credit Card,Email Campaign,6,3.6,0,1,0,0
+4981,C04982,South Korea,30,Female,Free,2026-01-15,1,64.28,57.16,19,Beauty & Personal Care,Desktop,Debit Card,Organic Search,0,3.4,0,3,1,1
+6228,C06229,Brazil,37,Male,Free,2024-12-05,13,813.37,54.44,124,Sports & Outdoors,Desktop,UPI / Digital Wallet,Email Campaign,1,3.9,1,0,1,1
+2921,C02922,United States,38,Male,Gold,2021-10-14,14,1108.77,75.64,2,Food & Grocery,Tablet,Credit Card,Organic Search,1,4.2,0,15,1,0
+4019,C04020,Germany,43,Female,Silver,2024-06-10,8,549.11,79.36,32,Home & Kitchen,Desktop,PayPal,Direct,2,4.1,0,1,1,1
+4331,C04332,Singapore,21,Male,Free,2021-07-15,9,1420.71,162.56,33,Beauty & Personal Care,Mobile,Debit Card,Social Media,2,4.3,0,5,1,0
+6999,C07000,Canada,37,Male,Free,2026-02-22,10,978.04,100.57,44,Home & Kitchen,Desktop,UPI / Digital Wallet,Direct,1,4.1,0,3,1,0
+1322,C01323,United States,19,Male,Silver,2025-10-21,43,1480.62,35.91,20,Automotive,Mobile,Debit Card,Referral,10,4.0,3,4,1,0
+7731,C07732,United States,26,Male,Free,2025-11-16,4,732.15,173.56,120,Beauty & Personal Care,Desktop,Debit Card,Organic Search,1,3.1,0,4,0,0
+2252,C02253,Italy,58,Female,Free,2025-01-06,56,2389.84,41.95,55,Toys & Games,Mobile,Credit Card,Direct,5,3.5,1,1,0,0
+6654,C06655,France,45,Female,Free,2025-07-20,15,1115.51,68.95,195,Electronics,Desktop,Credit Card,Email Campaign,1,3.8,0,3,1,0
+7244,C07245,United Kingdom,41,Male,Platinum,2024-10-05,28,2238.0,90.9,7,Sports & Outdoors,Mobile,Credit Card,Email Campaign,3,3.5,2,3,1,0
+866,C00867,United States,25,Female,Platinum,2025-07-14,26,1467.45,61.44,86,Automotive,Mobile,UPI / Digital Wallet,Organic Search,2,3.5,3,5,1,1
+5591,C05592,United States,18,Male,Silver,2026-03-30,10,532.35,52.33,18,Books,Mobile,UPI / Digital Wallet,Social Media,3,4.8,0,1,1,0
+2465,C02466,India,46,Male,Free,2025-10-07,8,168.77,23.45,9,Beauty & Personal Care,Mobile,Credit Card,Email Campaign,1,4.1,0,1,1,0
+465,C00466,Brazil,22,Female,Free,2026-03-28,9,198.59,20.88,95,Sports & Outdoors,Desktop,PayPal,Organic Search,3,3.4,0,1,1,0
+2882,C02883,France,44,Male,Free,2025-12-06,5,317.51,66.78,72,Health & Wellness,Mobile,Credit Card,Social Media,1,3.6,0,10,0,0
+4961,C04962,South Korea,18,Male,Platinum,2025-11-18,2,192.87,104.42,32,Beauty & Personal Care,Mobile,Credit Card,Organic Search,0,4.6,0,0,1,0
+7042,C07043,South Korea,39,Female,Silver,2025-02-01,13,2810.55,198.95,90,Clothing & Apparel,Mobile,Credit Card,Email Campaign,5,3.6,0,7,1,0
+6240,C06241,India,18,Female,Platinum,2026-01-22,3,259.76,82.72,33,Home & Kitchen,Desktop,PayPal,Social Media,0,3.7,0,0,1,0
+5447,C05448,Germany,26,Female,Free,2024-12-18,17,891.14,46.1,37,Electronics,Mobile,Credit Card,Organic Search,5,3.2,0,0,1,0
+1502,C01503,United States,20,Male,Silver,2026-03-07,19,340.65,18.46,62,Home & Kitchen,Mobile,Debit Card,Social Media,6,2.6,0,2,0,0
+3915,C03916,India,21,Male,Silver,2026-01-02,6,737.31,136.92,46,Books,Mobile,PayPal,Paid Ad,1,4.5,0,0,0,0
+3262,C03263,Canada,26,Female,Free,2024-11-29,21,855.45,37.63,370,Health & Wellness,Mobile,Credit Card,Direct,3,3.5,3,3,1,0
+263,C00264,India,18,Female,Free,2025-11-15,21,1650.96,87.81,50,Home & Kitchen,Mobile,Credit Card,Organic Search,2,4.6,2,8,1,0
+3806,C03807,United States,37,Male,Free,2025-10-21,5,349.61,69.02,63,Clothing & Apparel,Tablet,Credit Card,Organic Search,0,4.0,0,10,1,0
+4084,C04085,Netherlands,35,Female,Free,2025-10-22,23,1083.41,43.74,67,Home & Kitchen,Mobile,Debit Card,Email Campaign,3,4.5,1,4,0,0
+7839,C07840,France,48,Male,Free,2025-08-27,7,157.9,21.87,6,Automotive,Desktop,Debit Card,Direct,0,4.3,0,0,0,0
+1811,C01812,South Africa,29,Female,Gold,2025-06-17,16,548.89,34.73,35,Electronics,Tablet,UPI / Digital Wallet,Social Media,5,3.5,0,6,0,0
+1144,C01145,Australia,39,Other,Gold,2024-09-11,26,2315.91,80.9,4,Beauty & Personal Care,Mobile,PayPal,Organic Search,6,3.9,3,9,1,0
+5827,C05828,Sweden,37,Female,Free,2024-05-25,7,933.95,124.45,161,Home & Kitchen,Desktop,PayPal,Social Media,0,4.3,0,4,1,0
+2149,C02150,South Korea,35,Female,Platinum,2023-09-12,53,9344.82,205.25,56,Travel & Luggage,Mobile,Credit Card,Paid Ad,13,4.3,4,0,0,0
+3929,C03930,United States,40,Female,Free,2025-01-09,30,2196.27,66.54,10,Books,Mobile,Credit Card,Paid Ad,2,4.6,0,0,0,0
+6319,C06320,United States,32,Other,Gold,2025-04-13,41,3515.93,99.52,46,Books,Mobile,Credit Card,Paid Ad,16,4.5,1,3,1,0
+3290,C03291,India,47,Male,Gold,2025-09-10,4,533.67,123.79,113,Food & Grocery,Desktop,Debit Card,Paid Ad,0,4.3,0,4,1,0
+682,C00683,India,29,Female,Silver,2021-03-29,3,391.52,124.54,10,Sports & Outdoors,Desktop,PayPal,Social Media,0,4.5,0,0,1,0
+2840,C02841,United States,49,Male,Free,2026-01-31,35,1514.47,48.97,30,Food & Grocery,Desktop,Credit Card,Organic Search,6,3.9,1,8,0,0
+1002,C01003,India,29,Female,Free,2025-12-09,30,4423.76,138.98,50,Beauty & Personal Care,Desktop,PayPal,Social Media,2,4.9,2,1,1,0
+6755,C06756,France,18,Male,Free,2023-01-24,15,991.26,58.49,16,Jewelry & Accessories,Mobile,UPI / Digital Wallet,Organic Search,1,4.2,0,7,1,0
+5129,C05130,Germany,40,Female,Free,2021-08-23,6,883.89,132.3,14,Home & Kitchen,Mobile,Credit Card,Social Media,1,3.7,0,0,0,0
+4290,C04291,Australia,36,Female,Free,2025-02-23,1,122.6,129.58,5,Home & Kitchen,Mobile,PayPal,Direct,0,4.7,0,7,1,0
+2173,C02174,Canada,42,Female,Platinum,2024-01-23,25,3927.78,147.35,21,Pet Supplies,Mobile,Cryptocurrency,Organic Search,7,4.3,2,0,1,0
+483,C00484,Italy,47,Female,Gold,2025-03-01,25,2108.48,88.25,46,Books,Desktop,Bank Transfer,Paid Ad,4,4.7,2,0,0,0
+3813,C03814,India,36,Female,Free,2025-08-12,14,383.79,24.96,13,Toys & Games,Tablet,Credit Card,Direct,1,4.4,1,3,1,0
+4414,C04415,United States,45,Male,Silver,2017-07-30,21,1573.17,84.65,45,Toys & Games,Tablet,Credit Card,Email Campaign,5,3.7,1,1,1,0
+518,C00519,Brazil,40,Male,Free,2023-08-08,18,461.51,23.85,20,Clothing & Apparel,Mobile,Credit Card,Email Campaign,2,2.5,2,0,1,1
+6988,C06989,Australia,18,Male,Free,2024-11-20,21,2680.88,115.98,35,Home & Kitchen,Tablet,Credit Card,Social Media,8,4.5,1,6,1,0
+1345,C01346,United States,23,Female,Gold,2022-02-19,3,547.19,160.36,12,Travel & Luggage,Desktop,Debit Card,Paid Ad,0,3.4,0,3,1,0
+696,C00697,Netherlands,53,Male,Free,2026-01-14,12,658.78,59.26,23,Home & Kitchen,Mobile,PayPal,Social Media,2,4.9,0,6,0,0
+1009,C01010,Canada,31,Male,Free,2025-12-25,27,4773.16,199.22,69,Beauty & Personal Care,Tablet,Debit Card,Organic Search,10,3.5,0,12,1,0
+6317,C06318,Canada,35,Male,Free,2026-03-28,27,3021.04,120.3,158,Electronics,Mobile,PayPal,Referral,6,4.5,3,3,1,0
+6595,C06596,Brazil,41,Female,Silver,2025-10-03,23,738.29,32.81,15,Home & Kitchen,Desktop,Debit Card,Referral,3,4.4,2,6,0,0
+2770,C02771,United Kingdom,18,Female,Free,2025-04-22,3,264.69,89.28,99,Clothing & Apparel,Tablet,Credit Card,Email Campaign,0,4.1,0,9,1,0
+1074,C01075,Australia,19,Male,Silver,2022-07-01,12,569.92,54.29,6,Sports & Outdoors,Mobile,Debit Card,Social Media,1,4.9,0,4,0,0
+1339,C01340,Germany,18,Male,Free,2025-08-29,10,686.83,68.26,12,Toys & Games,Mobile,PayPal,Social Media,3,4.3,0,0,1,0
+2986,C02987,United States,35,Female,Free,2023-10-26,16,1387.46,101.26,3,Home & Kitchen,Desktop,Debit Card,Social Media,5,4.0,2,3,1,0
+7709,C07710,United States,32,Female,Free,2026-01-01,13,652.14,47.88,29,Clothing & Apparel,Mobile,Debit Card,Social Media,4,4.4,1,1,1,0
+6747,C06748,Canada,33,Female,Platinum,2025-05-07,7,1130.63,149.67,11,Automotive,Mobile,PayPal,Paid Ad,1,4.3,0,0,1,0
+4421,C04422,India,67,Female,Platinum,2025-01-10,3,366.98,119.48,84,Health & Wellness,Mobile,Credit Card,Direct,0,3.4,0,0,1,0
+3392,C03393,Germany,39,Female,Platinum,2025-10-16,27,1899.44,77.2,72,Home & Kitchen,Desktop,Buy Now Pay Later,Paid Ad,8,3.0,3,13,1,0
+1483,C01484,Spain,54,Male,Silver,2026-01-09,20,2047.42,94.5,185,Sports & Outdoors,Tablet,Debit Card,Email Campaign,6,4.3,0,3,0,0
+4861,C04862,United States,46,Male,Free,2023-09-10,21,746.59,33.66,24,Pet Supplies,Mobile,Buy Now Pay Later,Social Media,6,4.1,1,4,0,0
+1934,C01935,United States,39,Male,Free,2024-09-30,17,895.64,45.96,21,Home & Kitchen,Desktop,Debit Card,Organic Search,4,4.4,1,0,0,0
+1034,C01035,United Kingdom,38,Female,Silver,2024-08-28,13,1132.79,80.23,22,Beauty & Personal Care,Mobile,PayPal,Organic Search,1,4.8,1,1,0,0
+5484,C05485,United States,36,Male,Free,2023-09-16,1,22.37,23.57,20,Books,Mobile,Cryptocurrency,Organic Search,0,4.3,0,3,0,0
+2478,C02479,United States,18,Male,Free,2025-04-09,9,461.59,51.69,50,Electronics,Desktop,Credit Card,Email Campaign,3,3.5,1,10,1,0
+349,C00350,United States,30,Male,Silver,2025-06-22,7,403.88,56.24,49,Automotive,Tablet,UPI / Digital Wallet,Email Campaign,0,4.6,0,5,1,0
+4393,C04394,Canada,43,Female,Gold,2025-06-04,34,3241.73,104.8,128,Clothing & Apparel,Mobile,PayPal,Email Campaign,13,4.4,0,13,1,0
+4352,C04353,United Kingdom,31,Female,Free,2023-11-17,16,636.36,35.5,126,Clothing & Apparel,Desktop,Debit Card,Social Media,6,4.1,0,7,1,0
+7557,C07558,India,31,Female,Silver,2025-08-21,9,771.45,78.02,10,Food & Grocery,Mobile,Credit Card,Social Media,3,4.7,0,4,0,0
+1061,C01062,India,33,Other,Free,2024-04-14,29,701.89,22.19,70,Toys & Games,Mobile,Buy Now Pay Later,Organic Search,11,4.4,1,5,1,0
+879,C00880,United States,40,Female,Platinum,2025-02-03,21,6355.75,287.57,19,Clothing & Apparel,Desktop,UPI / Digital Wallet,Paid Ad,5,4.5,0,1,1,0
+5602,C05603,United States,40,Female,Free,2025-10-31,14,1571.57,124.09,114,Toys & Games,Mobile,Buy Now Pay Later,Email Campaign,4,4.6,1,14,1,0
+2542,C02543,Brazil,21,Male,Free,2025-01-22,7,613.44,81.87,13,Jewelry & Accessories,Desktop,PayPal,Organic Search,0,4.6,0,1,0,0
+6423,C06424,United States,55,Other,Silver,2024-06-05,8,577.72,65.1,37,Clothing & Apparel,Mobile,Bank Transfer,Organic Search,0,4.1,1,6,0,0
+6744,C06745,India,53,Female,Silver,2026-02-09,7,514.84,69.35,62,Sports & Outdoors,Desktop,PayPal,Organic Search,2,2.6,0,9,1,0
+1850,C01851,Brazil,26,Female,Free,2025-01-29,1,92.13,90.25,27,Electronics,Desktop,Debit Card,Social Media,0,4.0,0,11,1,1
+5402,C05403,France,34,Male,Free,2026-02-11,34,3855.66,120.07,7,Automotive,Desktop,Credit Card,Social Media,4,3.9,2,3,0,1
+1677,C01678,United States,18,Male,Free,2023-02-04,9,1287.33,151.98,15,Sports & Outdoors,Mobile,Debit Card,Direct,3,4.8,0,6,0,0
+1835,C01836,Germany,24,Female,Free,2023-08-22,39,2354.34,62.36,5,Sports & Outdoors,Mobile,PayPal,Organic Search,8,4.1,2,1,1,0
+7111,C07112,Canada,52,Female,Silver,2025-10-11,14,402.45,28.33,7,Health & Wellness,Tablet,Credit Card,Direct,4,3.8,0,2,0,0
+4952,C04953,India,27,Male,Free,2026-02-23,42,1351.93,35.32,2,Sports & Outdoors,Desktop,Debit Card,Social Media,4,4.6,4,4,1,0
+4704,C04705,United Kingdom,32,Female,Silver,2025-10-08,5,246.12,42.95,270,Home & Kitchen,Desktop,Credit Card,Organic Search,0,4.5,0,15,0,0
+5199,C05200,United States,24,Male,Silver,2022-01-30,8,2140.15,232.65,91,Electronics,Tablet,Credit Card,Email Campaign,1,4.9,0,0,1,0
+457,C00458,Canada,58,Male,Free,2025-03-18,11,172.16,18.06,1,Electronics,Mobile,Credit Card,Paid Ad,3,4.3,0,0,1,0
+4647,C04648,United States,22,Female,Free,2022-07-26,8,350.84,44.05,4,Clothing & Apparel,Mobile,Bank Transfer,Paid Ad,2,3.6,0,1,1,0
+6507,C06508,Germany,44,Male,Free,2025-12-26,2,103.38,50.46,89,Health & Wellness,Mobile,Debit Card,Organic Search,0,4.1,0,6,1,0
+3182,C03183,United States,24,Female,Free,2016-04-16,23,771.5,33.67,182,Clothing & Apparel,Mobile,PayPal,Email Campaign,8,3.8,1,5,0,1
+5337,C05338,United States,41,Male,Free,2025-09-22,17,238.83,16.14,1,Books,Tablet,PayPal,Direct,4,4.4,0,3,1,0
+1945,C01946,Germany,31,Female,Silver,2024-11-09,10,472.84,49.4,1,Food & Grocery,Desktop,Bank Transfer,Organic Search,0,4.7,0,1,1,0
+6124,C06125,Germany,40,Male,Free,2022-02-04,8,862.28,97.07,2,Clothing & Apparel,Desktop,Debit Card,Organic Search,2,4.0,0,0,0,0
+3263,C03264,United States,64,Female,Free,2025-07-15,12,401.0,31.51,54,Beauty & Personal Care,Mobile,PayPal,Organic Search,1,4.7,0,0,1,0
+6522,C06523,United Kingdom,27,Female,Free,2025-09-07,9,209.78,20.42,64,Clothing & Apparel,Mobile,Debit Card,Email Campaign,3,3.9,0,0,1,0
+6521,C06522,Mexico,48,Female,Free,2022-03-25,2,78.21,42.33,15,Electronics,Mobile,Credit Card,Email Campaign,0,4.5,0,8,1,0
+6702,C06703,Canada,27,Female,Silver,2025-05-06,62,1469.04,27.67,169,Beauty & Personal Care,Desktop,Credit Card,Organic Search,13,4.1,2,5,0,0
+2988,C02989,United States,24,Female,Silver,2022-03-24,4,499.57,109.31,63,Home & Kitchen,Desktop,Debit Card,Organic Search,0,3.7,0,11,0,0
+7020,C07021,Singapore,31,Female,Free,2025-12-02,1,4.89,5.0,26,Jewelry & Accessories,Desktop,UPI / Digital Wallet,Social Media,0,4.1,0,9,1,1
+1550,C01551,Australia,19,Female,Free,2025-02-10,16,211.11,14.29,85,Books,Desktop,Buy Now Pay Later,Paid Ad,5,4.6,0,0,0,0
+2164,C02165,France,18,Male,Free,2026-01-16,15,634.26,38.41,2,Clothing & Apparel,Mobile,Debit Card,Direct,4,4.9,1,2,0,0
+586,C00587,South Africa,26,Male,Silver,2024-11-25,7,787.37,124.39,21,Toys & Games,Mobile,UPI / Digital Wallet,Organic Search,0,3.7,0,3,1,0
+2405,C02406,United States,35,Male,Free,2024-01-26,16,1265.16,74.95,60,Books,Desktop,Credit Card,Email Campaign,5,4.0,1,12,0,0
+6800,C06801,Spain,37,Male,Gold,2022-12-24,2,393.16,202.0,52,Electronics,Mobile,Debit Card,Organic Search,0,4.9,0,5,1,0
+3428,C03429,France,50,Female,Free,2025-07-04,3,473.37,149.85,20,Travel & Luggage,Desktop,Credit Card,Email Campaign,0,3.5,0,2,1,0
+2609,C02610,India,23,Female,Free,2021-10-19,7,549.97,82.41,161,Books,Mobile,Credit Card,Organic Search,2,4.1,0,0,1,0
+3656,C03657,United States,23,Male,Platinum,2024-06-05,5,620.94,122.07,196,Clothing & Apparel,Mobile,PayPal,Direct,0,3.9,0,2,1,1
+3214,C03215,United States,34,Male,Free,2025-09-04,1,144.31,129.24,73,Office Supplies,Desktop,Credit Card,Organic Search,0,4.4,0,1,1,1
+3534,C03535,India,18,Female,Free,2021-09-20,12,358.71,32.1,78,Home & Kitchen,Mobile,Credit Card,Direct,3,3.2,0,3,0,0
+3286,C03287,United States,31,Male,Free,2023-07-13,5,249.11,46.75,10,Books,Desktop,UPI / Digital Wallet,Paid Ad,0,4.7,0,1,0,0
+2080,C02081,Netherlands,25,Male,Free,2020-07-03,17,1778.98,100.71,105,Clothing & Apparel,Mobile,Buy Now Pay Later,Social Media,2,4.2,0,0,0,0
+6955,C06956,South Korea,26,Male,Silver,2022-11-17,1,22.97,26.67,151,Travel & Luggage,Mobile,Credit Card,Email Campaign,0,3.7,0,1,1,0
+6487,C06488,Poland,25,Female,Gold,2021-10-02,19,1060.99,50.3,127,Health & Wellness,Mobile,Credit Card,Paid Ad,5,3.8,1,15,0,0
+647,C00648,Germany,49,Female,Gold,2025-09-05,3,323.62,116.59,91,Food & Grocery,Mobile,Debit Card,Email Campaign,0,4.1,0,3,1,0
+222,C00223,India,40,Female,Free,2026-03-08,7,1703.28,221.22,74,Electronics,Desktop,PayPal,Social Media,0,4.4,0,20,1,0
+6889,C06890,Japan,32,Female,Platinum,2025-07-18,5,2612.69,474.92,22,Home & Kitchen,Mobile,Debit Card,Social Media,0,3.4,0,5,0,0
+7678,C07679,France,33,Female,Free,2025-09-26,35,4267.18,114.1,71,Clothing & Apparel,Mobile,UPI / Digital Wallet,Paid Ad,4,4.1,4,12,1,0
+23,C00024,Japan,47,Male,Platinum,2024-11-08,5,954.36,166.04,45,Electronics,Mobile,PayPal,Social Media,0,4.2,0,1,1,0
+1905,C01906,United States,18,Male,Free,2022-08-11,35,3630.91,102.99,11,Sports & Outdoors,Tablet,PayPal,Email Campaign,5,3.3,2,6,1,0
+4078,C04079,UAE,63,Female,Free,2024-04-15,1,97.24,102.89,10,Beauty & Personal Care,Mobile,UPI / Digital Wallet,Email Campaign,0,4.2,0,0,1,1
+1554,C01555,United States,41,Female,Silver,2023-10-11,44,3102.8,62.98,92,Beauty & Personal Care,Mobile,Debit Card,Organic Search,16,4.5,3,14,1,0
+5723,C05724,Mexico,34,Female,Free,2025-12-17,37,2049.74,52.97,1,Food & Grocery,Mobile,Credit Card,Paid Ad,10,3.2,0,5,1,0
+5204,C05205,South Africa,30,Female,Free,2023-08-08,7,143.19,19.06,44,Electronics,Desktop,PayPal,Social Media,0,3.4,0,8,1,0
+7700,C07701,United Kingdom,19,Male,Free,2018-07-26,4,421.99,106.5,8,Office Supplies,Desktop,Credit Card,Organic Search,1,4.6,0,3,0,0
+5840,C05841,United States,39,Female,Gold,2024-06-18,11,1400.13,111.09,4,Automotive,Mobile,Credit Card,Social Media,3,4.9,0,4,0,0
+4945,C04946,UAE,29,Female,Free,2022-07-28,2,88.25,45.42,8,Food & Grocery,Desktop,Credit Card,Social Media,0,3.9,0,3,1,0
+1407,C01408,France,33,Female,Free,2022-06-16,6,333.3,61.29,29,Clothing & Apparel,Mobile,Credit Card,Organic Search,0,3.8,0,6,0,0
+65,C00066,United Kingdom,48,Male,Silver,2026-03-05,2,77.86,39.67,3,Sports & Outdoors,Mobile,PayPal,Organic Search,0,4.2,0,4,1,0
+6340,C06341,United Kingdom,35,Female,Gold,2025-03-11,3,85.87,29.33,44,Clothing & Apparel,Desktop,Credit Card,Direct,0,4.3,0,19,0,0
+1044,C01045,Brazil,37,Female,Free,2023-03-28,21,2566.67,124.36,19,Travel & Luggage,Mobile,UPI / Digital Wallet,Social Media,6,3.9,3,0,1,0
+6688,C06689,United Kingdom,30,Male,Free,2025-06-14,9,445.79,48.42,9,Travel & Luggage,Mobile,Credit Card,Referral,2,4.3,0,1,0,0
+7924,C07925,United States,18,Female,Silver,2023-07-18,8,594.99,79.45,23,Jewelry & Accessories,Mobile,PayPal,Email Campaign,3,4.4,0,1,0,0
+4743,C04744,United Kingdom,49,Female,Free,2025-10-17,45,5141.76,127.01,385,Books,Mobile,Credit Card,Organic Search,14,4.4,1,0,1,0
+2031,C02032,United States,21,Female,Free,2024-07-07,17,364.48,22.81,20,Food & Grocery,Tablet,UPI / Digital Wallet,Email Campaign,5,4.2,0,1,1,0
+5824,C05825,Germany,18,Female,Free,2024-10-07,22,376.59,17.29,18,Office Supplies,Mobile,Debit Card,Paid Ad,3,4.3,0,4,0,0
+5244,C05245,France,42,Female,Silver,2025-09-07,20,866.66,49.26,108,Pet Supplies,Mobile,Credit Card,Direct,3,3.8,1,5,1,1
+5036,C05037,Germany,18,Male,Free,2025-12-01,12,1982.22,160.38,327,Books,Mobile,Buy Now Pay Later,Direct,4,4.3,0,1,1,1
+554,C00555,United Kingdom,35,Female,Gold,2023-03-04,17,808.61,48.23,10,Home & Kitchen,Desktop,Credit Card,Organic Search,5,3.9,1,0,1,0
+7311,C07312,United Kingdom,36,Female,Platinum,2023-07-17,37,3511.83,98.95,60,Clothing & Apparel,Tablet,UPI / Digital Wallet,Social Media,14,3.3,3,16,0,0
+4394,C04395,South Korea,45,Male,Gold,2023-01-26,37,1270.59,39.3,272,Books,Mobile,Credit Card,Social Media,13,4.0,2,5,0,0
+5394,C05395,Sweden,23,Male,Free,2026-03-14,35,1476.05,40.3,96,Food & Grocery,Desktop,Buy Now Pay Later,Social Media,12,3.9,4,12,0,0
+3535,C03536,United Kingdom,32,Male,Platinum,2022-11-11,10,1023.22,105.91,56,Home & Kitchen,Tablet,Credit Card,Social Media,2,4.6,0,11,1,0
+1699,C01700,Japan,54,Female,Free,2025-09-13,2,68.1,30.09,67,Sports & Outdoors,Mobile,Credit Card,Organic Search,0,4.3,0,1,0,0
+6726,C06727,United Kingdom,55,Female,Gold,2025-05-31,24,1046.14,41.85,218,Clothing & Apparel,Desktop,UPI / Digital Wallet,Direct,4,4.1,3,10,0,1
+1055,C01056,India,47,Female,Free,2021-03-27,64,3829.75,60.35,25,Beauty & Personal Care,Mobile,PayPal,Social Media,19,4.2,8,3,0,0
+1406,C01407,South Africa,54,Female,Silver,2024-07-05,22,1534.87,80.33,49,Beauty & Personal Care,Desktop,Buy Now Pay Later,Referral,2,4.5,1,2,1,0
+3767,C03768,South Korea,33,Male,Free,2023-10-30,38,1902.77,51.67,3,Beauty & Personal Care,Desktop,Credit Card,Direct,6,4.4,3,1,1,0
+601,C00602,Spain,18,Female,Free,2024-02-22,18,2378.18,154.78,24,Beauty & Personal Care,Mobile,UPI / Digital Wallet,Email Campaign,5,4.3,2,19,1,0
+1383,C01384,United States,54,Male,Free,2024-06-16,27,516.29,16.63,37,Electronics,Tablet,Bank Transfer,Paid Ad,10,4.1,0,3,0,0
+3332,C03333,India,34,Male,Free,2023-03-29,8,649.14,85.04,10,Electronics,Mobile,Credit Card,Paid Ad,2,4.0,0,7,1,0
+2118,C02119,South Korea,38,Male,Free,2026-03-12,8,551.63,64.74,3,Clothing & Apparel,Desktop,UPI / Digital Wallet,Social Media,0,3.9,0,0,1,1
+4319,C04320,Canada,29,Male,Gold,2023-11-12,6,424.87,73.91,49,Beauty & Personal Care,Tablet,PayPal,Organic Search,1,4.1,0,2,0,0
+1912,C01913,Sweden,51,Male,Free,2023-04-11,29,2833.71,105.19,13,Clothing & Apparel,Mobile,UPI / Digital Wallet,Email Campaign,3,4.0,3,2,0,0
+3684,C03685,United States,55,Male,Free,2023-11-09,20,4358.74,201.0,22,Health & Wellness,Desktop,Buy Now Pay Later,Social Media,2,3.6,1,5,0,0
+7582,C07583,United Kingdom,47,Male,Gold,2025-09-01,5,969.81,184.39,59,Electronics,Mobile,Credit Card,Email Campaign,1,4.4,0,2,1,0
+4813,C04814,United States,36,Female,Free,2026-02-16,17,3585.2,191.54,28,Clothing & Apparel,Tablet,Debit Card,Social Media,4,4.6,2,2,0,0
+1740,C01741,United States,54,Male,Free,2023-06-24,2,266.24,143.97,81,Electronics,Tablet,Buy Now Pay Later,Organic Search,0,3.8,0,3,0,0
+5039,C05040,South Korea,20,Female,Free,2025-05-10,37,2839.51,88.31,27,Books,Mobile,UPI / Digital Wallet,Email Campaign,6,3.7,2,0,0,0
+927,C00928,France,38,Male,Free,2025-12-21,4,304.88,67.43,54,Electronics,Mobile,Credit Card,Referral,0,3.8,0,5,1,0
+5138,C05139,France,34,Female,Free,2024-06-25,38,4443.01,108.41,29,Home & Kitchen,Mobile,Debit Card,Paid Ad,6,3.9,0,6,1,0
+3578,C03579,Netherlands,53,Female,Silver,2024-08-18,18,1587.81,78.53,38,Office Supplies,Mobile,Cryptocurrency,Organic Search,1,4.6,0,0,1,0
+4442,C04443,United States,31,Male,Silver,2025-03-16,17,4122.83,252.93,44,Books,Desktop,Debit Card,Organic Search,3,4.8,0,6,0,0
+7472,C07473,United Kingdom,40,Male,Free,2025-07-17,21,1128.72,56.97,22,Health & Wellness,Mobile,PayPal,Email Campaign,2,2.4,2,2,0,0
+7128,C07129,South Africa,36,Female,Free,2025-03-16,8,1399.54,205.0,17,Electronics,Desktop,Bank Transfer,Organic Search,2,4.3,0,1,1,0
+239,C00240,United States,33,Male,Free,2025-01-25,18,1619.2,95.5,94,Electronics,Mobile,Bank Transfer,Social Media,4,4.4,1,6,1,0
+2966,C02967,United States,48,Male,Free,2023-05-24,9,2236.14,220.51,3,Food & Grocery,Tablet,UPI / Digital Wallet,Social Media,2,4.7,0,0,0,0
+3542,C03543,United States,37,Male,Gold,2021-07-29,28,2318.68,96.64,190,Clothing & Apparel,Mobile,Credit Card,Email Campaign,7,3.3,0,10,1,0
+6206,C06207,United States,51,Female,Free,2025-07-06,1,30.2,35.33,137,Beauty & Personal Care,Desktop,Credit Card,Paid Ad,0,3.9,0,5,1,1
+3210,C03211,Mexico,42,Female,Gold,2025-04-25,61,3801.45,64.53,62,Books,Mobile,Debit Card,Paid Ad,18,3.7,5,1,0,0
+101,C00102,Japan,50,Male,Free,2024-11-29,41,3856.68,83.13,189,Home & Kitchen,Mobile,PayPal,Organic Search,15,4.5,0,10,1,1
+318,C00319,France,35,Male,Gold,2025-03-31,60,10480.11,162.56,13,Clothing & Apparel,Mobile,PayPal,Organic Search,9,3.2,3,7,1,0
+4581,C04582,Germany,30,Male,Free,2024-01-09,10,68.4,7.24,8,Electronics,Mobile,Bank Transfer,Organic Search,2,3.9,0,3,1,0
+3187,C03188,United States,18,Male,Free,2023-12-29,15,978.56,58.38,1,Toys & Games,Mobile,Credit Card,Social Media,3,4.4,2,1,0,0
+533,C00534,United States,30,Female,Free,2023-03-31,40,4898.95,113.41,13,Toys & Games,Mobile,PayPal,Organic Search,15,4.1,0,2,0,0
+737,C00738,United States,46,Male,Free,2025-10-27,38,1911.86,52.56,43,Sports & Outdoors,Mobile,Debit Card,Direct,4,3.6,4,0,0,0
+1244,C01245,United States,35,Male,Silver,2025-12-25,14,458.69,31.68,36,Electronics,Desktop,Cryptocurrency,Paid Ad,3,4.1,1,3,1,0
+1142,C01143,Spain,34,Male,Platinum,2025-08-29,15,1483.98,108.75,29,Clothing & Apparel,Mobile,Credit Card,Social Media,3,4.1,0,1,1,0
+4347,C04348,Australia,38,Female,Silver,2025-03-06,56,9856.99,168.1,37,Office Supplies,Desktop,Debit Card,Email Campaign,16,4.4,1,0,1,0
+7287,C07288,Australia,38,Female,Gold,2024-08-13,22,2252.28,93.55,49,Toys & Games,Mobile,Debit Card,Direct,8,4.2,1,1,0,0
+6526,C06527,United States,46,Male,Silver,2022-07-08,20,1787.25,79.97,119,Health & Wellness,Desktop,PayPal,Email Campaign,3,2.9,2,0,1,0
+1328,C01329,United States,29,Female,Free,2023-08-22,27,1942.75,67.57,4,Books,Desktop,Credit Card,Direct,3,3.9,3,9,1,0
+7097,C07098,United Kingdom,41,Female,Platinum,2026-03-02,3,172.73,67.5,45,Electronics,Mobile,UPI / Digital Wallet,Direct,0,4.1,0,5,1,0
+6613,C06614,South Korea,25,Female,Free,2025-12-15,2,485.39,226.51,40,Pet Supplies,Mobile,Credit Card,Email Campaign,0,3.8,0,9,0,0
+1928,C01929,United Kingdom,55,Male,Platinum,2025-09-16,12,1597.86,138.49,2,Electronics,Tablet,Credit Card,Social Media,2,4.2,1,0,0,0
+5004,C05005,United States,36,Female,Free,2026-03-23,5,589.15,124.78,93,Books,Mobile,Buy Now Pay Later,Social Media,0,4.7,0,4,1,1
+496,C00497,UAE,37,Male,Silver,2023-05-08,15,1052.5,77.15,20,Health & Wellness,Mobile,PayPal,Organic Search,4,3.9,1,4,0,0
+7544,C07545,Germany,33,Female,Free,2025-06-08,7,463.36,58.95,64,Food & Grocery,Mobile,Debit Card,Email Campaign,1,4.3,0,8,1,0
+2771,C02772,Canada,46,Female,Silver,2025-04-25,5,242.67,54.31,154,Clothing & Apparel,Desktop,Credit Card,Email Campaign,1,4.5,0,2,0,0
+472,C00473,Mexico,26,Male,Gold,2024-06-08,4,361.27,95.87,90,Automotive,Desktop,Credit Card,Organic Search,1,3.6,0,6,1,0
+5050,C05051,United States,45,Female,Free,2022-05-14,2,53.44,24.44,25,Office Supplies,Mobile,Debit Card,Email Campaign,0,3.6,0,1,1,0
+4076,C04077,India,35,Female,Free,2026-02-13,2,224.34,121.53,58,Toys & Games,Desktop,Credit Card,Social Media,0,4.5,0,6,1,0
+3916,C03917,Canada,45,Male,Platinum,2025-01-12,40,1547.35,43.22,99,Food & Grocery,Mobile,Debit Card,Organic Search,7,4.7,3,8,1,0
+544,C00545,France,36,Male,Free,2025-10-17,13,228.77,20.65,157,Home & Kitchen,Mobile,UPI / Digital Wallet,Organic Search,3,3.9,1,9,0,0
+4176,C04177,United States,25,Female,Free,2022-06-19,14,376.69,29.15,14,Jewelry & Accessories,Mobile,Debit Card,Email Campaign,1,4.3,1,9,0,0
+1242,C01243,Germany,28,Male,Free,2021-10-19,5,328.91,77.05,29,Automotive,Desktop,UPI / Digital Wallet,Email Campaign,0,3.9,0,11,1,0
+7330,C07331,France,42,Female,Free,2025-03-04,38,2418.16,73.42,6,Home & Kitchen,Desktop,UPI / Digital Wallet,Referral,12,4.5,2,2,1,0
+5538,C05539,Spain,44,Female,Free,2025-02-05,2,116.84,58.05,12,Electronics,Desktop,Debit Card,Email Campaign,0,3.7,0,0,1,1
+334,C00335,United States,33,Female,Free,2023-02-02,2,374.42,177.35,129,Electronics,Mobile,Credit Card,Social Media,0,4.0,0,5,1,0
+7132,C07133,United States,43,Female,Gold,2026-03-07,7,143.9,18.72,27,Toys & Games,Desktop,Buy Now Pay Later,Organic Search,0,3.5,0,7,0,0
+1315,C01316,Germany,19,Male,Gold,2025-08-01,25,7527.24,320.6,108,Jewelry & Accessories,Desktop,UPI / Digital Wallet,Paid Ad,4,4.3,2,6,0,0
+1919,C01920,Germany,33,Female,Silver,2026-02-04,14,737.06,46.19,31,Sports & Outdoors,Mobile,Debit Card,Organic Search,3,4.6,2,1,0,0
+2184,C02185,Brazil,25,Female,Platinum,2022-07-23,10,161.0,14.18,47,Home & Kitchen,Mobile,Debit Card,Paid Ad,0,4.5,0,11,1,0
+3861,C03862,Brazil,30,Female,Gold,2023-11-26,35,3751.38,108.14,46,Toys & Games,Desktop,PayPal,Organic Search,11,4.6,0,18,0,0
+7409,C07410,Canada,34,Male,Platinum,2025-11-09,11,1470.34,130.42,13,Food & Grocery,Desktop,Bank Transfer,Email Campaign,3,4.8,0,2,1,0
+4645,C04646,India,24,Female,Free,2025-04-17,16,2381.41,149.18,90,Food & Grocery,Desktop,PayPal,Email Campaign,1,4.1,1,5,1,0
+132,C00133,United Kingdom,28,Female,Platinum,2023-04-10,6,345.7,59.37,34,Home & Kitchen,Tablet,Buy Now Pay Later,Social Media,0,4.0,0,3,1,0
+3960,C03961,Germany,40,Female,Free,2025-01-26,28,2565.77,88.0,10,Home & Kitchen,Mobile,UPI / Digital Wallet,Paid Ad,7,4.2,0,5,0,0
+6351,C06352,United States,49,Male,Platinum,2024-10-09,25,5049.91,178.81,81,Beauty & Personal Care,Mobile,Credit Card,Organic Search,9,3.9,0,3,1,0
+2245,C02246,Germany,18,Male,Free,2024-11-12,4,481.55,126.22,107,Electronics,Mobile,Debit Card,Organic Search,0,4.1,0,3,0,0
+540,C00541,Brazil,31,Male,Gold,2025-08-17,27,2273.69,93.36,67,Sports & Outdoors,Desktop,PayPal,Paid Ad,3,4.3,2,2,0,0
+6146,C06147,Italy,27,Female,Free,2025-03-17,4,380.27,83.24,29,Books,Mobile,Credit Card,Organic Search,0,4.1,0,2,1,0
+2029,C02030,India,23,Male,Gold,2025-11-06,22,2428.23,113.69,148,Beauty & Personal Care,Desktop,Credit Card,Referral,7,4.9,2,28,1,0
+37,C00038,United States,34,Male,Free,2026-02-28,22,1107.07,58.01,79,Beauty & Personal Care,Mobile,PayPal,Social Media,8,4.7,2,1,0,0
+7636,C07637,United Kingdom,51,Other,Free,2025-06-01,8,311.17,38.71,61,Health & Wellness,Mobile,Credit Card,Paid Ad,2,3.2,1,3,1,0
+7573,C07574,United Kingdom,39,Female,Silver,2024-11-04,35,3456.14,107.74,20,Books,Mobile,Credit Card,Social Media,13,4.1,0,12,1,0
+2018,C02019,Singapore,18,Female,Free,2025-12-01,1,38.05,35.56,32,Automotive,Desktop,UPI / Digital Wallet,Referral,0,4.5,0,0,1,0
+2111,C02112,France,45,Female,Gold,2026-01-03,2,160.3,73.18,453,Sports & Outdoors,Tablet,Credit Card,Social Media,0,4.6,0,0,0,1
+2402,C02403,United States,47,Female,Platinum,2026-01-08,1,72.35,73.39,408,Home & Kitchen,Mobile,Debit Card,Organic Search,0,4.1,0,3,1,1
+748,C00749,United Kingdom,44,Female,Silver,2023-06-26,16,1934.42,125.63,22,Clothing & Apparel,Mobile,Credit Card,Email Campaign,4,3.6,0,0,0,1
+7567,C07568,Australia,18,Female,Gold,2025-10-12,7,1198.41,150.71,125,Books,Mobile,Credit Card,Direct,2,3.1,0,0,1,0
+2456,C02457,Brazil,29,Female,Silver,2022-03-19,10,532.78,47.52,4,Food & Grocery,Mobile,Debit Card,Organic Search,3,4.1,0,0,1,0
+7512,C07513,United Kingdom,35,Female,Silver,2021-12-09,1,35.75,36.41,63,Food & Grocery,Mobile,Buy Now Pay Later,Organic Search,0,4.4,0,4,1,0
+2344,C02345,United Kingdom,28,Female,Silver,2024-11-06,26,4859.07,215.48,0,Pet Supplies,Desktop,Buy Now Pay Later,Social Media,5,4.4,0,0,1,0
+95,C00096,United States,35,Male,Gold,2025-04-14,7,1676.89,254.5,15,Electronics,Desktop,Credit Card,Organic Search,0,2.9,0,4,1,0
+6251,C06252,India,49,Male,Free,2024-08-30,33,2028.24,68.4,126,Sports & Outdoors,Desktop,Debit Card,Organic Search,10,3.5,3,0,0,0
+7864,C07865,Germany,37,Male,Free,2025-11-06,2,265.16,144.95,26,Sports & Outdoors,Mobile,Debit Card,Social Media,0,4.2,0,1,1,0
+5223,C05224,United States,40,Female,Silver,2024-03-11,1,52.6,53.46,86,Travel & Luggage,Mobile,Bank Transfer,Direct,0,4.2,0,10,0,0
+2114,C02115,United States,26,Female,Free,2023-06-09,5,349.0,71.54,107,Toys & Games,Mobile,Credit Card,Email Campaign,0,4.0,0,3,1,0
+2586,C02587,Netherlands,18,Female,Silver,2026-03-10,36,4447.82,131.54,24,Beauty & Personal Care,Desktop,Debit Card,Paid Ad,10,4.4,2,22,1,0
+5198,C05199,Japan,45,Female,Free,2026-02-06,8,764.45,106.67,57,Sports & Outdoors,Mobile,Credit Card,Email Campaign,1,3.8,0,8,1,0
+3439,C03440,Spain,38,Female,Free,2025-12-11,29,5681.48,183.42,40,Jewelry & Accessories,Mobile,Credit Card,Email Campaign,1,4.5,3,0,0,0
+3554,C03555,France,23,Male,Gold,2024-12-16,5,269.67,50.46,0,Electronics,Desktop,Bank Transfer,Social Media,1,4.2,0,7,1,0
+453,C00454,South Korea,24,Male,Free,2021-02-03,29,3431.04,118.1,11,Clothing & Apparel,Mobile,PayPal,Direct,2,4.1,2,11,1,1
+6584,C06585,Mexico,18,Male,Free,2025-11-29,10,220.79,23.59,99,Pet Supplies,Desktop,Debit Card,Organic Search,3,3.5,0,0,1,0
+2812,C02813,Germany,45,Female,Free,2025-03-25,9,696.5,83.88,13,Electronics,Mobile,Buy Now Pay Later,Organic Search,1,4.2,0,7,0,0
+2836,C02837,United States,31,Female,Free,2026-01-01,3,509.98,168.46,103,Clothing & Apparel,Mobile,Credit Card,Social Media,0,3.8,0,4,0,0
+251,C00252,India,23,Male,Free,2024-01-18,30,1972.94,64.58,45,Toys & Games,Mobile,PayPal,Direct,8,4.2,1,14,1,0
+6635,C06636,Canada,40,Female,Free,2025-08-06,5,536.34,103.49,66,Jewelry & Accessories,Desktop,Debit Card,Email Campaign,1,4.7,0,0,0,0
+1022,C01023,United States,35,Female,Silver,2025-07-24,59,1509.01,22.54,7,Food & Grocery,Mobile,Debit Card,Organic Search,16,4.1,7,2,1,0
+7647,C07648,Spain,33,Male,Gold,2024-07-09,31,6033.09,176.21,104,Office Supplies,Mobile,PayPal,Direct,4,4.6,3,8,1,0
+1010,C01011,India,35,Male,Free,2024-09-29,5,496.73,90.19,4,Electronics,Mobile,Debit Card,Paid Ad,0,3.4,0,0,1,0
+4649,C04650,Canada,33,Male,Silver,2024-10-25,2,170.94,77.65,88,Home & Kitchen,Mobile,PayPal,Email Campaign,0,3.1,0,2,1,0
+6001,C06002,United States,23,Female,Platinum,2024-04-30,4,692.32,165.23,76,Health & Wellness,Desktop,Buy Now Pay Later,Direct,0,4.5,0,3,1,1
+1672,C01673,Canada,41,Male,Free,2025-03-11,2,206.36,106.67,23,Electronics,Desktop,Debit Card,Organic Search,0,4.8,0,2,0,1
+625,C00626,United States,62,Female,Free,2025-03-16,2,70.23,36.11,12,Clothing & Apparel,Desktop,Credit Card,Organic Search,0,4.3,0,10,0,0
+7793,C07794,Germany,32,Male,Free,2022-05-26,22,1174.27,61.39,11,Electronics,Mobile,PayPal,Direct,4,3.0,0,2,1,0
+2110,C02111,Brazil,49,Female,Free,2025-10-18,7,641.07,91.08,41,Beauty & Personal Care,Mobile,Debit Card,Paid Ad,2,4.7,0,3,0,0
+1465,C01466,France,41,Male,Silver,2022-11-11,27,481.33,19.36,26,Electronics,Tablet,Credit Card,Referral,6,3.7,0,0,0,0
+7529,C07530,France,56,Female,Free,2026-02-10,56,2974.34,52.08,49,Jewelry & Accessories,Mobile,Buy Now Pay Later,Social Media,4,3.9,5,12,1,0
+4734,C04735,India,29,Male,Free,2026-01-11,27,3478.74,135.32,102,Electronics,Mobile,Buy Now Pay Later,Organic Search,8,3.1,1,3,1,0
+4266,C04267,Brazil,44,Male,Free,2024-09-17,53,1139.7,21.38,28,Clothing & Apparel,Desktop,PayPal,Organic Search,17,4.4,0,7,0,0
+3091,C03092,Mexico,30,Female,Gold,2023-12-14,20,1087.26,62.19,196,Books,Mobile,Credit Card,Direct,3,3.7,0,0,1,1
+6972,C06973,Germany,35,Female,Silver,2023-09-02,48,1889.11,37.65,94,Electronics,Mobile,PayPal,Paid Ad,10,4.4,3,1,1,0
+1888,C01889,United Kingdom,60,Male,Gold,2025-11-12,30,1910.74,74.77,3,Beauty & Personal Care,Mobile,Debit Card,Paid Ad,10,4.3,0,1,0,0
+1608,C01609,France,31,Other,Free,2023-06-13,25,2536.79,90.44,82,Electronics,Tablet,PayPal,Email Campaign,1,4.5,1,9,1,0
+1744,C01745,United Kingdom,50,Male,Free,2026-01-17,37,1572.34,45.03,3,Sports & Outdoors,Desktop,PayPal,Organic Search,4,4.8,0,2,0,0
+157,C00158,Italy,19,Male,Gold,2025-07-11,21,844.0,41.36,14,Home & Kitchen,Tablet,Debit Card,Paid Ad,2,3.7,1,3,1,0
+2439,C02440,Turkey,41,Male,Free,2025-12-27,31,1459.05,54.12,5,Toys & Games,Mobile,Credit Card,Email Campaign,9,4.5,0,0,1,0
+2199,C02200,Canada,38,Male,Gold,2025-09-27,29,2063.1,63.49,39,Clothing & Apparel,Tablet,Credit Card,Organic Search,10,3.8,1,1,1,0
+3094,C03095,UAE,18,Female,Free,2025-09-06,26,1467.9,65.85,152,Clothing & Apparel,Desktop,Credit Card,Social Media,5,4.1,2,2,1,0
+6213,C06214,Canada,18,Female,Free,2025-08-02,4,161.28,43.46,4,Home & Kitchen,Mobile,Buy Now Pay Later,Social Media,0,3.6,0,7,0,0
+503,C00504,India,37,Male,Free,2025-04-16,15,1206.9,90.26,12,Automotive,Mobile,PayPal,Organic Search,1,4.7,0,0,1,0
+6186,C06187,UAE,35,Male,Free,2024-11-11,35,4089.09,121.43,9,Food & Grocery,Mobile,Credit Card,Email Campaign,5,3.4,3,2,0,0
+315,C00316,United States,42,Male,Gold,2026-03-25,35,4135.4,109.87,2,Home & Kitchen,Mobile,PayPal,Email Campaign,3,4.3,3,2,0,0
+710,C00711,United States,32,Male,Free,2024-10-14,48,10448.07,233.96,0,Home & Kitchen,Mobile,UPI / Digital Wallet,Email Campaign,2,3.9,7,9,0,0
+3968,C03969,Australia,32,Male,Free,2025-03-29,42,1125.14,31.49,56,Electronics,Desktop,Credit Card,Social Media,7,4.4,0,2,0,0
+4174,C04175,United States,24,Male,Free,2025-06-26,2,103.17,54.48,77,Clothing & Apparel,Desktop,Debit Card,Paid Ad,0,3.1,0,15,0,0
+3717,C03718,Germany,44,Male,Silver,2026-01-24,15,1465.49,85.44,291,Home & Kitchen,Tablet,Credit Card,Organic Search,5,3.7,0,0,1,0
+7082,C07083,Spain,28,Female,Free,2025-07-24,3,117.39,43.22,5,Electronics,Tablet,Debit Card,Organic Search,0,4.1,0,5,1,0
+856,C00857,France,46,Female,Free,2024-04-13,26,3937.08,138.87,104,Beauty & Personal Care,Mobile,PayPal,Social Media,8,3.3,2,3,1,0
+3322,C03323,Netherlands,36,Male,Free,2025-11-01,2,115.53,57.37,62,Electronics,Desktop,PayPal,Email Campaign,0,3.5,0,1,1,0
+5002,C05003,France,27,Female,Silver,2026-01-07,4,228.16,60.29,3,Clothing & Apparel,Desktop,UPI / Digital Wallet,Organic Search,0,3.9,0,3,1,0
+2656,C02657,United States,26,Female,Gold,2022-07-04,17,1171.38,65.02,7,Toys & Games,Mobile,Debit Card,Email Campaign,5,4.7,0,1,1,0
+319,C00320,United States,37,Female,Silver,2026-03-08,21,2363.86,126.74,47,Books,Mobile,Credit Card,Email Campaign,4,3.7,1,3,1,0
+429,C00430,South Korea,36,Male,Free,2024-04-08,5,414.19,78.25,61,Home & Kitchen,Desktop,UPI / Digital Wallet,Referral,0,3.9,0,20,1,0
+1018,C01019,United Kingdom,34,Female,Silver,2018-10-01,5,108.47,25.05,16,Clothing & Apparel,Desktop,Cryptocurrency,Email Campaign,0,4.2,0,7,0,0
+1426,C01427,South Africa,26,Female,Gold,2026-03-22,42,2752.52,76.04,17,Jewelry & Accessories,Mobile,Debit Card,Paid Ad,10,4.8,5,2,0,1
+7942,C07943,Spain,43,Female,Gold,2024-03-18,5,863.94,162.71,97,Books,Mobile,Debit Card,Social Media,0,4.2,0,2,1,0
+3703,C03704,India,43,Male,Silver,2025-12-28,9,729.19,70.61,84,Books,Desktop,Cryptocurrency,Organic Search,1,4.7,1,3,1,0
+6543,C06544,India,18,Female,Gold,2025-07-26,7,1078.13,147.49,14,Clothing & Apparel,Mobile,PayPal,Organic Search,0,4.0,0,1,0,0
+2107,C02108,United Kingdom,41,Female,Free,2022-11-06,1,126.73,121.98,11,Beauty & Personal Care,Mobile,Credit Card,Social Media,0,4.2,0,4,1,0
+7145,C07146,United Kingdom,21,Female,Free,2025-05-27,56,986.09,19.74,24,Clothing & Apparel,Tablet,Credit Card,Social Media,8,4.6,7,1,0,0
+6605,C06606,India,35,Male,Platinum,2026-03-15,9,809.96,83.49,12,Clothing & Apparel,Desktop,Credit Card,Email Campaign,1,4.2,1,3,1,0
+7530,C07531,Brazil,27,Male,Gold,2017-02-22,7,562.37,84.54,17,Office Supplies,Mobile,PayPal,Paid Ad,0,4.7,0,6,1,0
+7978,C07979,Netherlands,47,Female,Gold,2025-10-29,53,8511.54,147.74,109,Home & Kitchen,Desktop,Credit Card,Social Media,14,2.6,1,1,1,0
+7944,C07945,Italy,27,Male,Silver,2024-08-10,7,324.06,42.42,36,Electronics,Desktop,PayPal,Organic Search,1,4.5,0,0,1,0
+1193,C01194,France,29,Female,Gold,2024-04-25,11,891.18,73.85,69,Electronics,Mobile,Credit Card,Email Campaign,3,4.1,1,3,1,1
+6357,C06358,United States,32,Male,Free,2024-06-17,17,3466.34,192.34,30,Clothing & Apparel,Desktop,Debit Card,Email Campaign,6,3.9,1,4,1,0
+4113,C04114,United States,53,Male,Platinum,2025-06-15,50,5289.02,114.36,108,Automotive,Desktop,Credit Card,Organic Search,12,3.2,6,1,0,0
+5740,C05741,United States,39,Female,Platinum,2024-09-15,27,3888.42,153.73,19,Beauty & Personal Care,Mobile,PayPal,Social Media,4,4.6,3,2,0,0
+1840,C01841,United States,28,Male,Free,2025-06-29,37,4401.26,137.74,76,Electronics,Desktop,Credit Card,Social Media,12,4.1,0,19,1,0
+2534,C02535,Italy,23,Female,Free,2024-09-11,1,148.97,154.44,15,Beauty & Personal Care,Tablet,PayPal,Email Campaign,0,4.3,0,1,1,0
+1862,C01863,United States,31,Other,Free,2022-05-05,18,1187.08,61.23,22,Health & Wellness,Desktop,Bank Transfer,Paid Ad,2,4.6,1,22,1,0
+5836,C05837,Canada,59,Other,Free,2025-11-14,30,1995.68,68.9,31,Electronics,Mobile,UPI / Digital Wallet,Direct,4,3.5,1,1,0,0
+7773,C07774,France,31,Male,Platinum,2023-08-24,3,398.06,138.58,35,Electronics,Mobile,Credit Card,Organic Search,0,4.4,0,12,1,0
+6699,C06700,United Kingdom,50,Female,Free,2024-07-28,1,78.51,69.65,22,Books,Mobile,Debit Card,Organic Search,0,3.5,0,30,1,0
+3045,C03046,Germany,31,Male,Silver,2025-01-29,9,443.17,46.57,229,Electronics,Desktop,Debit Card,Email Campaign,1,3.9,1,1,1,1
+2628,C02629,United States,44,Female,Gold,2024-05-12,13,452.88,31.66,189,Books,Mobile,Buy Now Pay Later,Social Media,0,4.2,0,3,1,1
+4228,C04229,UAE,33,Female,Gold,2024-08-15,24,633.93,29.0,19,Books,Desktop,Bank Transfer,Social Media,6,3.8,0,6,1,0
+6060,C06061,Germany,49,Male,Free,2019-04-19,25,2286.62,81.38,4,Beauty & Personal Care,Desktop,Debit Card,Direct,4,3.6,2,5,1,0
+4229,C04230,Germany,42,Female,Free,2025-03-10,46,1586.14,32.92,75,Clothing & Apparel,Mobile,Bank Transfer,Organic Search,17,4.6,2,11,1,0
+1281,C01282,Italy,34,Male,Platinum,2024-09-21,35,2323.97,71.82,28,Health & Wellness,Mobile,Credit Card,Direct,3,4.4,5,1,1,0
+7740,C07741,Italy,38,Female,Platinum,2025-11-12,45,5881.0,123.96,21,Books,Tablet,Debit Card,Paid Ad,7,3.7,4,1,1,0
+7288,C07289,Germany,26,Female,Free,2025-05-03,12,1113.91,87.06,41,Beauty & Personal Care,Desktop,Credit Card,Organic Search,1,3.5,0,0,1,0
+5502,C05503,United States,34,Female,Silver,2016-03-30,1,48.33,55.98,48,Books,Desktop,Cryptocurrency,Direct,0,4.3,0,1,1,0
+4220,C04221,South Africa,41,Male,Free,2024-05-10,17,842.88,52.99,96,Home & Kitchen,Desktop,Debit Card,Direct,2,4.6,0,7,1,0
+4545,C04546,Netherlands,18,Male,Silver,2024-12-05,20,1434.07,74.45,182,Automotive,Mobile,PayPal,Organic Search,7,3.7,1,4,1,0
+7698,C07699,Sweden,39,Male,Free,2025-06-09,21,1564.12,79.56,21,Toys & Games,Mobile,Debit Card,Organic Search,4,4.5,1,1,1,0
+743,C00744,Australia,45,Male,Free,2014-06-16,6,308.95,54.22,2,Books,Desktop,Credit Card,Paid Ad,1,4.3,0,0,1,0
+5528,C05529,United States,35,Female,Free,2024-12-31,6,211.83,36.68,68,Automotive,Mobile,Credit Card,Organic Search,0,4.3,0,13,0,0
+2233,C02234,United States,43,Male,Gold,2022-12-27,29,3779.64,116.03,11,Home & Kitchen,Mobile,Credit Card,Social Media,4,4.0,1,2,0,0
+4504,C04505,United States,45,Male,Free,2025-10-24,20,748.03,42.39,42,Books,Desktop,Debit Card,Direct,6,4.8,1,15,1,0
+6246,C06247,United States,52,Female,Free,2024-03-22,47,12411.9,275.1,14,Travel & Luggage,Mobile,UPI / Digital Wallet,Paid Ad,15,4.8,3,14,1,0
+6096,C06097,Canada,34,Female,Silver,2026-03-10,35,6580.09,169.89,11,Electronics,Tablet,UPI / Digital Wallet,Email Campaign,6,3.2,3,2,0,0
+7770,C07771,Italy,36,Female,Free,2025-09-02,1,85.05,76.76,32,Health & Wellness,Desktop,Credit Card,Email Campaign,0,4.8,0,2,1,1
+5277,C05278,India,44,Female,Free,2025-06-07,38,3761.72,92.93,122,Sports & Outdoors,Mobile,Credit Card,Email Campaign,7,4.6,2,5,0,0
+3615,C03616,United States,47,Female,Free,2025-07-21,24,2884.06,125.75,84,Clothing & Apparel,Desktop,Credit Card,Organic Search,8,3.8,2,2,1,0
+4789,C04790,Brazil,24,Female,Platinum,2022-10-16,24,1272.58,51.23,18,Home & Kitchen,Desktop,PayPal,Paid Ad,5,4.6,0,1,1,0
+7496,C07497,United States,37,Female,Free,2020-03-28,2,123.12,72.3,22,Electronics,Desktop,Credit Card,Paid Ad,0,4.6,0,0,1,0
+2697,C02698,South Korea,18,Female,Silver,2026-04-01,4,204.25,54.57,24,Electronics,Tablet,Credit Card,Organic Search,1,3.9,0,10,1,0
+1701,C01702,Australia,32,Female,Free,2023-11-27,67,2129.73,32.72,55,Food & Grocery,Desktop,Credit Card,Email Campaign,5,3.9,1,10,0,0
+996,C00997,United States,45,Female,Gold,2026-03-07,2,375.83,218.89,55,Jewelry & Accessories,Desktop,Buy Now Pay Later,Organic Search,0,4.6,0,8,0,1
+4038,C04039,United Kingdom,18,Female,Silver,2024-10-21,40,10424.42,226.95,35,Books,Tablet,Bank Transfer,Paid Ad,13,4.6,5,1,0,0
+4657,C04658,India,32,Male,Free,2026-03-07,4,374.9,90.37,33,Home & Kitchen,Mobile,Buy Now Pay Later,Social Media,1,3.4,0,6,1,0
+7906,C07907,India,22,Male,Free,2024-10-04,20,1730.09,84.03,72,Clothing & Apparel,Mobile,Credit Card,Organic Search,6,3.6,0,1,0,0
+4717,C04718,United States,24,Male,Silver,2025-11-18,14,1149.27,75.32,12,Electronics,Mobile,Credit Card,Social Media,3,4.3,0,0,1,0
+4715,C04716,United States,18,Male,Free,2025-05-03,17,1945.22,110.96,24,Jewelry & Accessories,Mobile,PayPal,Social Media,3,4.2,2,15,1,0
+3482,C03483,India,34,Male,Free,2022-01-19,8,958.42,108.53,68,Home & Kitchen,Mobile,Debit Card,Social Media,1,3.5,0,9,1,0
+6369,C06370,United States,47,Other,Free,2026-03-18,1,41.92,48.72,43,Clothing & Apparel,Mobile,UPI / Digital Wallet,Organic Search,0,4.7,0,10,0,1
+5893,C05894,Canada,43,Male,Free,2024-08-21,2,104.33,45.67,55,Jewelry & Accessories,Mobile,Credit Card,Organic Search,0,4.6,0,1,0,1
+5146,C05147,United States,18,Male,Silver,2025-12-23,16,1594.52,94.48,103,Food & Grocery,Mobile,PayPal,Direct,4,3.9,2,1,1,0
+1084,C01085,Japan,22,Male,Free,2025-06-23,20,3014.59,148.75,136,Home & Kitchen,Desktop,Buy Now Pay Later,Referral,5,4.2,1,3,1,0
+2266,C02267,Brazil,30,Female,Free,2026-02-06,34,2470.68,63.43,29,Home & Kitchen,Mobile,UPI / Digital Wallet,Referral,8,4.4,4,20,1,0
+1922,C01923,United States,47,Female,Free,2026-03-01,9,327.67,38.96,15,Electronics,Desktop,PayPal,Paid Ad,0,4.6,0,6,1,0
+7223,C07224,Germany,40,Male,Free,2021-06-13,4,167.56,40.7,113,Electronics,Mobile,PayPal,Paid Ad,1,4.1,0,0,1,0
+1046,C01047,India,54,Male,Free,2024-01-27,1,158.59,152.24,0,Home & Kitchen,Mobile,Debit Card,Organic Search,0,3.9,0,10,0,1
+1346,C01347,South Africa,38,Female,Silver,2025-11-10,16,609.8,43.23,4,Health & Wellness,Mobile,Debit Card,Organic Search,2,4.7,1,1,0,0
+5922,C05923,Mexico,48,Female,Gold,2023-11-22,18,1776.03,87.78,9,Clothing & Apparel,Desktop,Credit Card,Social Media,1,4.4,0,0,1,0
+1176,C01177,Netherlands,44,Female,Silver,2024-11-14,7,168.42,22.6,65,Electronics,Mobile,Credit Card,Organic Search,1,4.7,0,11,1,0
+6282,C06283,Australia,26,Male,Silver,2021-04-11,39,2781.22,66.05,56,Toys & Games,Mobile,UPI / Digital Wallet,Paid Ad,14,4.6,5,3,1,0
+7036,C07037,United States,40,Male,Free,2026-02-15,17,1790.83,101.37,60,Health & Wellness,Tablet,Credit Card,Paid Ad,6,3.2,0,1,1,0
+6083,C06084,United Kingdom,18,Male,Platinum,2026-02-21,45,15297.86,354.74,29,Home & Kitchen,Mobile,UPI / Digital Wallet,Paid Ad,16,3.8,5,12,1,0
+5914,C05915,UAE,42,Male,Silver,2024-07-26,3,191.59,64.9,66,Clothing & Apparel,Mobile,PayPal,Organic Search,0,4.6,0,1,0,0
+4838,C04839,Germany,30,Male,Silver,2024-06-09,4,346.76,80.26,32,Clothing & Apparel,Desktop,Buy Now Pay Later,Referral,1,4.5,0,9,0,0
+1421,C01422,Canada,18,Male,Silver,2025-10-04,62,5285.0,86.86,69,Beauty & Personal Care,Desktop,Credit Card,Organic Search,21,3.9,5,0,1,0
+6075,C06076,Germany,47,Male,Free,2025-08-10,55,1040.22,21.99,92,Jewelry & Accessories,Mobile,PayPal,Organic Search,20,4.6,6,5,0,0
+4149,C04150,Canada,46,Male,Free,2024-11-29,6,485.94,73.28,30,Clothing & Apparel,Mobile,Credit Card,Email Campaign,0,4.1,0,5,1,0
+5775,C05776,United Kingdom,43,Female,Silver,2026-02-26,5,620.31,140.18,14,Food & Grocery,Mobile,UPI / Digital Wallet,Paid Ad,1,3.5,0,5,0,0
+908,C00909,Germany,22,Male,Platinum,2023-12-17,4,297.47,66.24,7,Sports & Outdoors,Mobile,Cryptocurrency,Referral,1,4.5,0,3,0,0
+2913,C02914,Mexico,35,Male,Silver,2026-01-09,29,2377.3,88.31,20,Health & Wellness,Desktop,Credit Card,Email Campaign,3,4.0,2,1,1,0
+6851,C06852,United States,27,Female,Free,2023-08-04,5,226.95,43.49,14,Clothing & Apparel,Desktop,Credit Card,Email Campaign,1,4.0,0,4,1,0
+1972,C01973,Brazil,40,Female,Silver,2024-11-17,7,299.08,41.31,69,Home & Kitchen,Mobile,Credit Card,Organic Search,0,4.4,0,1,1,0
+6527,C06528,Netherlands,28,Male,Free,2025-04-07,6,282.99,54.01,25,Home & Kitchen,Tablet,PayPal,Organic Search,2,4.3,0,10,0,0
+7918,C07919,Australia,28,Female,Free,2025-09-29,3,129.82,40.47,2,Electronics,Tablet,PayPal,Social Media,0,4.1,0,6,1,0
+3733,C03734,Spain,28,Female,Free,2025-11-06,25,5969.85,252.24,59,Health & Wellness,Mobile,Bank Transfer,Email Campaign,4,4.4,1,6,0,0
+393,C00394,United Kingdom,26,Male,Gold,2025-08-24,18,662.76,41.89,7,Electronics,Mobile,Credit Card,Organic Search,4,4.5,2,15,0,0
+683,C00684,Singapore,37,Female,Free,2024-07-08,8,385.28,53.57,38,Clothing & Apparel,Mobile,Debit Card,Paid Ad,0,3.6,0,6,1,0
+230,C00231,United Kingdom,39,Male,Gold,2025-10-08,3,198.45,63.69,18,Clothing & Apparel,Mobile,Debit Card,Organic Search,0,4.1,0,6,1,0
+7947,C07948,United States,18,Male,Gold,2023-08-12,70,5495.47,72.76,16,Electronics,Mobile,PayPal,Organic Search,21,3.6,8,2,1,0
+1430,C01431,Germany,34,Female,Free,2025-07-25,7,832.41,111.1,10,Pet Supplies,Tablet,Credit Card,Email Campaign,2,4.5,0,0,0,0
+676,C00677,India,45,Female,Platinum,2026-01-20,16,1354.85,76.12,58,Clothing & Apparel,Mobile,Credit Card,Email Campaign,3,4.4,2,14,0,0
+6463,C06464,Australia,44,Female,Free,2025-04-27,4,116.59,30.05,24,Beauty & Personal Care,Tablet,Credit Card,Email Campaign,0,4.9,0,1,1,0
+2138,C02139,United States,37,Male,Silver,2025-09-15,10,712.75,80.31,27,Travel & Luggage,Mobile,Debit Card,Social Media,3,4.4,0,7,0,0
+6926,C06927,United States,43,Male,Silver,2026-01-08,10,474.32,47.29,49,Books,Tablet,PayPal,Referral,1,4.0,0,5,1,0
+33,C00034,Canada,36,Male,Silver,2025-07-18,10,428.48,40.62,21,Clothing & Apparel,Desktop,UPI / Digital Wallet,Social Media,2,4.6,1,1,1,0
+2807,C02808,Canada,46,Male,Gold,2023-05-20,33,5430.96,154.27,18,Home & Kitchen,Tablet,Credit Card,Organic Search,12,4.6,2,8,1,0
+957,C00958,United States,47,Female,Free,2026-04-01,6,187.48,33.97,62,Electronics,Desktop,Buy Now Pay Later,Paid Ad,1,4.5,0,8,1,0
+7871,C07872,India,23,Male,Free,2020-06-20,20,1964.23,92.81,23,Beauty & Personal Care,Mobile,PayPal,Social Media,5,4.1,1,4,0,0
+6342,C06343,Brazil,42,Male,Free,2024-08-12,1,91.33,100.84,125,Home & Kitchen,Desktop,Debit Card,Organic Search,0,2.7,0,9,1,0
+1632,C01633,United States,34,Female,Free,2026-01-05,1,129.73,130.82,20,Home & Kitchen,Mobile,Credit Card,Social Media,0,4.5,0,0,1,0
+7417,C07418,United States,25,Female,Free,2025-10-01,15,907.29,57.43,118,Electronics,Desktop,PayPal,Organic Search,3,4.1,0,3,1,0
+4262,C04263,United Kingdom,33,Male,Silver,2025-10-15,43,2180.05,48.55,24,Toys & Games,Tablet,PayPal,Email Campaign,3,4.2,5,5,1,0
+2223,C02224,United States,36,Female,Platinum,2025-04-21,4,207.06,55.51,5,Clothing & Apparel,Tablet,UPI / Digital Wallet,Email Campaign,0,4.2,0,0,0,0
+3378,C03379,United States,29,Female,Silver,2023-07-16,4,183.29,40.8,86,Office Supplies,Desktop,UPI / Digital Wallet,Organic Search,1,4.0,0,9,1,0
+7159,C07160,Australia,40,Female,Free,2024-12-28,76,4156.22,55.74,31,Home & Kitchen,Mobile,Debit Card,Social Media,7,4.7,0,2,1,0
+61,C00062,Germany,37,Male,Gold,2026-02-03,3,159.85,58.76,0,Books,Mobile,Credit Card,Organic Search,0,3.6,0,6,1,0
+4570,C04571,United States,31,Male,Platinum,2023-10-03,16,2724.58,149.76,70,Electronics,Desktop,PayPal,Organic Search,5,4.3,0,14,1,0
+1807,C01808,Germany,49,Female,Platinum,2025-05-06,14,7997.8,531.44,144,Food & Grocery,Tablet,Credit Card,Email Campaign,3,4.7,0,11,0,0
+1277,C01278,Germany,39,Male,Free,2023-08-24,15,3238.85,250.61,49,Sports & Outdoors,Mobile,Credit Card,Referral,5,4.3,1,0,1,0
+7534,C07535,India,36,Male,Platinum,2024-03-20,1,46.73,53.48,28,Home & Kitchen,Desktop,Buy Now Pay Later,Email Campaign,0,3.9,0,12,1,0
+3515,C03516,United States,50,Female,Platinum,2025-12-24,19,1192.73,64.63,22,Food & Grocery,Mobile,Credit Card,Paid Ad,5,4.9,2,4,1,0
+332,C00333,Turkey,26,Male,Gold,2025-06-05,2,315.98,180.96,47,Books,Mobile,Debit Card,Organic Search,0,4.9,0,2,1,1
+6072,C06073,United States,18,Male,Gold,2026-01-04,1,53.74,53.32,14,Home & Kitchen,Tablet,PayPal,Paid Ad,0,4.6,0,0,0,1
+2375,C02376,India,47,Female,Free,2025-04-29,75,3926.48,50.45,78,Clothing & Apparel,Tablet,Credit Card,Paid Ad,23,4.5,6,0,0,0
+7171,C07172,India,35,Male,Silver,2026-01-25,3,166.58,52.28,9,Electronics,Mobile,Debit Card,Organic Search,1,4.2,0,0,1,0
+1261,C01262,Canada,60,Male,Gold,2021-08-19,2,59.95,32.17,153,Electronics,Mobile,UPI / Digital Wallet,Social Media,0,3.7,0,0,1,0
+5607,C05608,Singapore,42,Male,Free,2026-02-26,4,250.34,60.95,36,Home & Kitchen,Mobile,Credit Card,Social Media,0,3.3,0,1,1,0
+5303,C05304,United Kingdom,22,Female,Silver,2023-12-17,29,400.79,12.12,40,Home & Kitchen,Desktop,Credit Card,Organic Search,10,2.8,4,2,0,0
+5627,C05628,India,53,Male,Platinum,2024-06-15,20,2023.66,93.57,140,Clothing & Apparel,Desktop,Credit Card,Paid Ad,3,2.9,1,9,1,0
+736,C00737,France,40,Male,Free,2024-10-02,1,45.21,52.08,40,Electronics,Mobile,PayPal,Social Media,0,4.6,0,7,1,0
+6415,C06416,United Kingdom,18,Male,Platinum,2024-10-02,24,10679.95,389.14,21,Sports & Outdoors,Tablet,UPI / Digital Wallet,Email Campaign,9,4.5,1,0,1,0
+6088,C06089,India,45,Male,Free,2024-06-16,1,61.68,59.76,105,Automotive,Mobile,PayPal,Email Campaign,0,4.5,0,0,1,0
+2897,C02898,United States,47,Female,Free,2024-09-17,61,9797.09,140.63,24,Office Supplies,Tablet,UPI / Digital Wallet,Paid Ad,18,3.4,3,2,1,0
+3244,C03245,France,32,Male,Free,2022-07-19,28,932.63,38.4,33,Office Supplies,Mobile,Credit Card,Paid Ad,9,4.5,0,21,0,0
+5364,C05365,United States,31,Male,Free,2021-07-11,6,241.81,40.82,32,Health & Wellness,Desktop,PayPal,Organic Search,1,4.5,0,0,0,0
+3288,C03289,United Kingdom,18,Female,Free,2019-01-24,18,708.87,41.52,36,Beauty & Personal Care,Desktop,PayPal,Organic Search,2,4.2,1,4,0,0
+6459,C06460,India,19,Female,Free,2017-08-05,19,1779.14,98.89,33,Home & Kitchen,Mobile,Debit Card,Email Campaign,5,4.5,1,7,0,0
+7284,C07285,India,59,Female,Gold,2023-08-18,26,6457.18,232.85,177,Home & Kitchen,Tablet,Credit Card,Organic Search,9,3.9,0,1,0,0
+6449,C06450,United Kingdom,47,Female,Silver,2026-02-28,46,2702.04,64.36,119,Clothing & Apparel,Mobile,Credit Card,Organic Search,9,4.3,6,14,1,0
+3299,C03300,Japan,43,Female,Silver,2025-09-26,19,1819.51,91.82,31,Electronics,Desktop,UPI / Digital Wallet,Organic Search,1,3.2,0,2,0,0
+2473,C02474,United Kingdom,44,Other,Silver,2026-01-30,21,1764.72,96.45,58,Clothing & Apparel,Mobile,Bank Transfer,Direct,1,4.1,1,0,1,0
+2306,C02307,India,44,Male,Gold,2022-09-19,12,462.44,44.15,34,Jewelry & Accessories,Mobile,Debit Card,Social Media,2,3.8,1,0,0,0
+1374,C01375,Germany,61,Male,Gold,2026-03-07,5,836.1,180.16,150,Beauty & Personal Care,Desktop,Credit Card,Email Campaign,1,4.1,0,7,0,0
+6171,C06172,Mexico,34,Female,Free,2024-12-27,12,471.72,34.39,11,Beauty & Personal Care,Desktop,PayPal,Paid Ad,2,4.5,1,2,0,0
+7741,C07742,Mexico,47,Female,Free,2025-11-16,33,3631.02,109.93,18,Electronics,Mobile,UPI / Digital Wallet,Organic Search,5,3.7,1,6,1,0
+7893,C07894,Canada,18,Male,Free,2025-11-04,42,8501.36,182.69,234,Home & Kitchen,Desktop,Debit Card,Organic Search,7,4.2,3,11,0,0
+2598,C02599,United Kingdom,29,Female,Free,2024-09-04,2,189.45,89.52,71,Office Supplies,Mobile,Credit Card,Paid Ad,0,4.1,0,2,1,0
+3429,C03430,India,19,Male,Gold,2024-12-03,25,1055.0,48.67,26,Food & Grocery,Mobile,Credit Card,Social Media,6,4.8,2,9,0,0
+2603,C02604,United States,28,Female,Free,2025-12-12,5,133.06,23.84,3,Toys & Games,Desktop,Debit Card,Paid Ad,0,4.8,0,2,1,0
+3877,C03878,France,42,Male,Gold,2023-07-25,1,290.56,259.05,158,Travel & Luggage,Mobile,Credit Card,Paid Ad,0,4.0,0,1,0,0
+7863,C07864,Australia,41,Male,Free,2025-12-03,18,590.11,34.62,74,Electronics,Mobile,Credit Card,Email Campaign,2,4.4,0,0,1,0
+6575,C06576,France,44,Female,Gold,2025-09-14,7,1203.22,174.49,14,Pet Supplies,Desktop,Credit Card,Social Media,0,4.1,0,7,1,0
+7117,C07118,Italy,48,Male,Free,2025-11-07,4,146.52,38.78,21,Electronics,Desktop,Debit Card,Social Media,1,3.6,0,3,0,0
+1078,C01079,France,35,Female,Silver,2025-04-02,3,68.3,21.74,35,Office Supplies,Mobile,PayPal,Social Media,0,4.1,0,12,1,0
+3520,C03521,United States,20,Female,Free,2020-07-12,2,141.85,75.75,122,Electronics,Tablet,Buy Now Pay Later,Direct,0,4.6,0,1,1,0
+1163,C01164,United Kingdom,34,Male,Silver,2023-10-25,1,44.68,43.58,43,Sports & Outdoors,Mobile,Buy Now Pay Later,Organic Search,0,4.2,0,2,0,1
+6577,C06578,United Kingdom,55,Male,Platinum,2023-11-02,14,1680.81,140.86,30,Books,Mobile,Debit Card,Email Campaign,1,4.2,0,3,1,0
+3832,C03833,United States,37,Female,Free,2022-12-02,5,540.14,105.06,79,Clothing & Apparel,Mobile,PayPal,Social Media,1,4.1,0,7,0,0
+5441,C05442,France,24,Male,Free,2023-06-28,21,1554.94,87.09,0,Books,Desktop,Debit Card,Referral,7,3.6,2,9,1,0
+79,C00080,Germany,43,Female,Gold,2021-02-28,28,2007.54,77.85,46,Toys & Games,Desktop,Credit Card,Paid Ad,5,4.5,1,4,1,0
+2585,C02586,Turkey,44,Female,Free,2025-08-13,1,48.89,45.45,195,Sports & Outdoors,Desktop,Buy Now Pay Later,Direct,0,4.6,0,0,1,0
+6906,C06907,France,42,Female,Free,2025-04-07,9,129.23,15.72,58,Jewelry & Accessories,Desktop,Credit Card,Organic Search,2,4.1,0,1,1,0
+6816,C06817,United States,48,Female,Silver,2024-09-10,14,814.16,57.72,127,Clothing & Apparel,Desktop,Debit Card,Referral,4,3.9,1,18,1,0
+4509,C04510,Germany,45,Male,Free,2023-03-05,5,1155.42,252.52,9,Books,Desktop,Credit Card,Paid Ad,1,4.3,0,12,1,0
+7165,C07166,Brazil,33,Male,Silver,2025-06-04,11,577.5,56.05,2,Beauty & Personal Care,Desktop,Debit Card,Referral,1,4.7,1,2,1,0
+5925,C05926,United States,39,Male,Gold,2024-01-30,13,826.5,59.15,9,Jewelry & Accessories,Mobile,Credit Card,Organic Search,1,3.9,1,0,1,0
+4595,C04596,United Kingdom,34,Male,Free,2025-06-11,1,69.65,61.78,108,Electronics,Mobile,Debit Card,Direct,0,4.2,0,2,0,0
+1790,C01791,United States,19,Female,Silver,2025-04-06,6,1003.24,164.63,1,Jewelry & Accessories,Mobile,Debit Card,Email Campaign,1,4.3,0,11,1,0
+1786,C01787,India,28,Male,Free,2025-11-09,20,913.36,43.83,67,Books,Desktop,Buy Now Pay Later,Social Media,3,4.5,1,0,1,0
+1569,C01570,Australia,35,Male,Silver,2024-03-27,8,802.86,101.14,14,Electronics,Mobile,Credit Card,Paid Ad,0,4.7,0,0,1,0
+1737,C01738,Brazil,29,Male,Free,2025-09-14,5,422.59,97.84,15,Clothing & Apparel,Mobile,Debit Card,Social Media,0,3.5,0,2,1,0
+2251,C02252,United Kingdom,30,Female,Free,2024-05-24,8,1383.88,168.94,175,Books,Mobile,Bank Transfer,Email Campaign,1,3.9,0,2,1,0
+4888,C04889,Canada,18,Female,Free,2023-08-08,7,555.42,91.07,59,Home & Kitchen,Mobile,Credit Card,Referral,0,4.0,0,1,1,0
+1025,C01026,United States,50,Male,Free,2025-10-21,15,287.39,21.18,110,Sports & Outdoors,Mobile,UPI / Digital Wallet,Referral,3,4.6,0,1,0,0
+1954,C01955,United States,26,Male,Silver,2024-03-06,9,350.73,36.82,49,Clothing & Apparel,Tablet,Credit Card,Email Campaign,0,4.2,0,12,1,0
+3612,C03613,United States,52,Female,Gold,2025-09-08,5,510.82,114.73,1,Home & Kitchen,Mobile,Credit Card,Email Campaign,0,4.1,0,0,0,0
+1562,C01563,United States,18,Male,Platinum,2023-01-24,4,267.49,74.25,45,Electronics,Desktop,Debit Card,Organic Search,0,2.9,0,8,1,0
+5777,C05778,United States,34,Male,Free,2025-11-22,9,335.2,41.13,19,Beauty & Personal Care,Desktop,Debit Card,Paid Ad,2,4.1,0,0,1,0
+6289,C06290,Canada,20,Male,Platinum,2025-03-18,17,1511.04,80.46,17,Clothing & Apparel,Mobile,UPI / Digital Wallet,Paid Ad,4,3.8,0,3,0,0
+7466,C07467,Germany,26,Male,Platinum,2023-11-04,1,224.86,252.79,1,Beauty & Personal Care,Mobile,Buy Now Pay Later,Organic Search,0,4.0,0,11,1,1
+1330,C01331,India,44,Male,Free,2021-03-26,5,515.14,103.74,217,Electronics,Desktop,Debit Card,Social Media,1,2.8,0,5,1,1
+6762,C06763,South Africa,19,Male,Free,2023-10-02,8,1655.41,235.11,134,Food & Grocery,Mobile,Credit Card,Email Campaign,0,3.3,1,1,1,0
+7878,C07879,Germany,44,Female,Free,2026-01-02,4,140.14,33.87,30,Automotive,Mobile,Debit Card,Organic Search,1,3.7,0,3,0,1
+5722,C05723,United States,65,Male,Free,2024-02-09,27,925.68,37.47,11,Sports & Outdoors,Mobile,Credit Card,Organic Search,3,4.3,1,1,1,0
+2020,C02021,Brazil,18,Male,Free,2022-07-21,37,2752.6,65.96,105,Home & Kitchen,Mobile,Credit Card,Direct,2,4.7,1,0,1,0
+149,C00150,Brazil,44,Female,Free,2026-03-08,4,230.79,55.77,10,Electronics,Mobile,Credit Card,Paid Ad,0,3.4,0,4,0,0
+5327,C05328,United States,49,Male,Gold,2025-06-03,2,104.32,57.07,161,Food & Grocery,Desktop,Credit Card,Organic Search,0,4.7,0,4,1,0
+5155,C05156,United States,34,Male,Platinum,2025-09-07,3,939.32,277.2,74,Clothing & Apparel,Desktop,Credit Card,Organic Search,1,4.5,0,5,1,0
+7785,C07786,France,18,Female,Free,2026-03-14,11,401.1,32.05,157,Travel & Luggage,Tablet,Credit Card,Organic Search,1,3.9,1,0,1,0
+1732,C01733,United States,53,Female,Free,2023-04-07,38,3249.12,80.37,1,Electronics,Mobile,Bank Transfer,Organic Search,5,4.6,2,10,1,0
+970,C00971,United States,51,Female,Silver,2026-02-02,55,2682.18,44.2,1,Health & Wellness,Mobile,Buy Now Pay Later,Social Media,14,4.6,7,9,1,0
+2338,C02339,India,34,Female,Free,2025-10-25,19,1291.02,76.05,6,Electronics,Mobile,Debit Card,Direct,3,3.1,2,6,1,0
+1263,C01264,United States,58,Male,Free,2025-03-10,42,1008.68,27.77,101,Books,Desktop,PayPal,Organic Search,7,3.9,2,1,1,0
+169,C00170,India,41,Male,Silver,2023-05-24,19,1523.22,90.82,120,Beauty & Personal Care,Mobile,Credit Card,Paid Ad,7,4.7,1,4,1,0
+4550,C04551,France,34,Male,Free,2024-07-28,2,58.67,32.88,84,Toys & Games,Tablet,PayPal,Email Campaign,0,4.0,0,6,1,0
